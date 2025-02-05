@@ -6,5 +6,13 @@
 .navbar{
     height: 60px;
     background-color: #0f1111;
-    
+    color: white;
+
+}
+.nav-logo{
+    height: 50px;
+}
+.logo{
+    background-image: url("amazone_logo.png") ;
+    height: 50px;
 }
